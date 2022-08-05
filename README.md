@@ -1,4 +1,5 @@
 # fum
 This project is in a very early state. I recommend comming back later.
 
-This project is a reference to a programming language called "fun" (working title). "fun" was taken in github, so I called the repo "fum".
+This project is a reference to a programming language called "fun" (working title). "fun" was taken in github, so I called the repo "fum". The reference is in the wiki:
+https://github.com/Markus-Zacharuk/fum/wiki
